@@ -145,7 +145,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -90, y: -6}
   m_SizeDelta: {x: 500, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &261373859
@@ -169,10 +169,10 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 3e838563a29b95248bc113dbd1f2d692, type: 3}
-    m_FontSize: 14
+    m_FontSize: 11
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 0
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -197,7 +197,15 @@ MonoBehaviour:
     You will need to enter in commands to order the Ships AI around the system.
 
 
-    The objective is to scan and collect  information to send back home.'
+    The objective is to scan and collect  information to send back home.
+
+
+
+    Mobile Users:
+
+    Tilting Left / Right will cycle through the commands
+
+    Tilting back will submit the current command'
 --- !u!222 &261373860
 CanvasRenderer:
   m_ObjectHideFlags: 0
