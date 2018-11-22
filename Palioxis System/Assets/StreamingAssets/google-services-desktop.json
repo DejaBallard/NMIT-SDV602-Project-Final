@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869220419710",
+    "firebase_url": "https://palioxis-2d285.firebaseio.com",
+    "project_id": "palioxis-2d285",
+    "storage_bucket": "palioxis-2d285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869220419710:android:a3f11cf2f02ceb83",
+        "android_client_info": {
+          "package_name": "com.DejaBallard.Palioxis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869220419710-5vb255sb8mpgljvprr4e994nn30fsc40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbv2vb2wISy1sSlmbplug6JdauwXdQNv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
