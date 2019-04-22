@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palioxis System", "Assembly-CSharp.csproj", "{45F349E6-9969-A32E-6487-309A434EF0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palioxis System", "Assembly-CSharp-firstpass.csproj", "{9478101C-5B63-ADC1-3B48-E5EF42E662D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palioxis System", "Assembly-CSharp-Editor-firstpass.csproj", "{6340D1BA-94B0-B845-4B32-DC630D8A596B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F349E6-9969-A32E-6487-309A434EF0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F349E6-9969-A32E-6487-309A434EF0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F349E6-9969-A32E-6487-309A434EF0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F349E6-9969-A32E-6487-309A434EF0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9478101C-5B63-ADC1-3B48-E5EF42E662D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9478101C-5B63-ADC1-3B48-E5EF42E662D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9478101C-5B63-ADC1-3B48-E5EF42E662D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9478101C-5B63-ADC1-3B48-E5EF42E662D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6340D1BA-94B0-B845-4B32-DC630D8A596B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6340D1BA-94B0-B845-4B32-DC630D8A596B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6340D1BA-94B0-B845-4B32-DC630D8A596B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6340D1BA-94B0-B845-4B32-DC630D8A596B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
